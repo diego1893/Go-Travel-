@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "643754179286",
+    "firebase_url": "https://go-travel-55d53.firebaseio.com",
+    "project_id": "go-travel-55d53",
+    "storage_bucket": "go-travel-55d53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643754179286:android:79613b045792a596",
+        "android_client_info": {
+          "package_name": "com.monsordi.form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643754179286-1lph3ofale1vqo66694qp1ebhirqrqs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDubIYjKtln26P6TuOne95kBmw9le-GW8k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
