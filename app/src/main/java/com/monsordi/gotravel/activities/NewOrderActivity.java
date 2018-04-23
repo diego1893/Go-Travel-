@@ -71,7 +71,7 @@ public class NewOrderActivity extends AppCompatActivity implements PhoneFragment
     @Override
     public void onBackPressed() {
         int count = getFragmentManager().getBackStackEntryCount();
-        if (count == 1) {
+        if (count == 0) {
             super.onBackPressed();
         } else {
             getFragmentManager().popBackStack();
